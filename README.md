@@ -5,7 +5,7 @@ class Day7 extends Flutter100DaysOfCode {
   video() {
     return {
       "title": "Flutter Splash screen animation Application Design",
-      "description": "Let's see how we can design a Food Delivery app UI and add some animation.",
+      "description": "Let's see how we can design a splash screen UI and add some animation.",
       "day": 7,
       "videoLink": "#"
     }
